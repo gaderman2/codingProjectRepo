@@ -1,0 +1,3 @@
+înt main(void){
+	test
+}
